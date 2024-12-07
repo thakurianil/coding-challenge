@@ -19,3 +19,7 @@ export const calculateGrossProfitMargin = (data: any[], revenue: number): number
         .reduce((sum, item) => sum + item.total_value, 0);
     return sales / revenue;
 };
+
+export const calculateNetProfitMargin = (revenue: number, expenses: number): number => {
+    return (revenue - expenses) / revenue;
+};
