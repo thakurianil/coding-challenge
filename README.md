@@ -88,6 +88,13 @@ Net Profit Margin: 21%
 Working Capital Ratio: 95%
 ```
 
+Real Output:
+Revenue: $32,431
+Expenses: $36,530
+Gross Profit Margin: 0.0%
+Net Profit Margin: -12.6%
+Working Capital Ratio: 118.8%
+
 # Dependencies
 
 If your program requires a special way to compile or a specific version of a toolset, please be sure to include that in your running instructions.
